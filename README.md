@@ -43,9 +43,9 @@ A challenge could be be errors introduced to the COUNTIFS equation's syntax, as 
 
 ## Results
 
-- The Theater Outcomes Based on Launch Date graph showed successful campaigns had more fluctuations, whereas failed campaigns had less fluctuantions. Overall, most successful campaigns were launched between May-June, while tapering off wowards end-of year. 
+- The [Theater Outcomes Based on Launch Date](https://github.com/arelysrsd87/kickstarter-analysis-challenge/blob/main/Theater_Outcomes_vs_Launch.png) graph showed successful campaigns had more fluctuations, whereas failed campaigns had less fluctuantions. Overall, most successful campaigns were launched between May-June, while tapering off wowards end-of year. 
  
-- The Outcomes Based on Goal graph showed play campaigns with a goal of less than $5,000 had a success rate of 73%. 
+- The [Outcomes Based on Goal](https://github.com/arelysrsd87/kickstarter-analysis-challenge/blob/main/Outcomes_vs_Goals.png) graph showed play campaigns with a goal of less than $5,000 had a success rate of 73%. 
 
 ### What are some limitations of this dataset?
 One limitation of this dataset is the condational formatting based on color for the percentage funding results. The purpose of the condital formatting based on color is to help visulaize which projects were fully funded at a glance. In this intance, we have a couple of successful campaigns with a $1 goal, skewing our results for percentage funded. We recommend filtering out campaigns with unrealistic low goals and applying the conditional formatting again.  
