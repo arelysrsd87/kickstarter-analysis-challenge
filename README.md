@@ -21,7 +21,7 @@ To perform this analaysis, we used Pivot Tables and graphs to visualize campaign
 - Launch dates were grouped by month to give a more comprehensive picture on how theater campaigns performed based on their launch date. 
 - We filtered out live theater campaigns. 
 - Note - these results were not filterd by country.
----
+
 ![Theater_Outcomes_vs_Launch](https://github.com/arelysrsd87/kickstarter-analysis-challenge/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
@@ -33,11 +33,12 @@ To perform this analysis, we used the COUNTIFS function and percentages for succ
 - The count number was converted to percentage to standarize the results.
 - The percentage of successful, failed and canceled play campaigns as a funtion the goal-amount ranges was graphed using a line graph.
 - Note - these results were not filtered by country.
----
+
 ![Outcomes_vs_Goals](https://github.com/arelysrsd87/kickstarter-analysis-challenge/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 A challenge could be be errors introduced to the COUNTIFS equation's syntax, as the number of criteria increases. To overcome this, we reccomend adding the number of succesful, failed and canceled play campaigns. Compare the results to a pivot table that filters out plays as a subcategory and looks at each of the outcomes and count of outcomes.
+
 ![COUNTIFS_syntax_verification](https://github.com/arelysrsd87/kickstarter-analysis-challenge/blob/main/COUNTIFS_syntax_verification.png)
 
 ## Results
