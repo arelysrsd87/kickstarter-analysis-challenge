@@ -6,7 +6,7 @@ Using Kickstarter dataset we visualize campaign outcomes based on their launch d
 Performed analysis on Kickstarter data set to uncover trends based on: 
 - Outcomes for theater campaigns based on launch dates 
 - Outcomes for play campaigns based on different funding goal amounts
----
+
 This analysis builds-up on previous results that [theater campaigns in the US](https://github.com/arelysrsd87/kickstarter-analysis-challenge/blob/main/Theater_Outcomes_US_pie.png) had a 58% sucess rate, and more specifically, [play campaigns in the US](https://github.com/arelysrsd87/kickstarter-analysis-challenge/blob/main/Play_Outcomes_US_pie.png) had a 68% success rate. Successful theater campaigns had an [average goal amount of $5,049 and average pledged amount of $5,602](https://github.com/arelysrsd87/kickstarter-analysis-challenge/blob/main/Descriptive%20Statistics%20for%20Successful%20and%20Failed%20theater%20campaigns%20in%20US.png)
 
 ### Purpose
